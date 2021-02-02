@@ -1,1 +1,1 @@
-# Used the JFrame class to create a GUI that displays pictures and allows sorting by different features (date published, rating, and title). The different pictures were stored using an abstract class and they were sorted using the comparator interface. 
+Used the JFrame class to create a GUI that displays pictures and allows sorting by different features (date published, rating, and title). The different pictures were stored using an abstract class and they were sorted using the comparator interface. 
